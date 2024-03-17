@@ -25,7 +25,7 @@ const AboutDetails = () => {
           </span>
           <span className="block mt-2">
           I am constantly seeking new challenges and opportunities to push the limits of what is possible.
-          If you're looking for a Software Engineer who can bring your wildest ideas to life, let's connect and change the game together!
+          If you&apos;re looking for a Software Engineer who can bring your wildest ideas to life, let&apos;s connect and change the game together!
           </span>
           </p>
         </ItemLayout>
